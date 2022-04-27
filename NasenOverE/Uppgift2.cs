@@ -16,7 +16,7 @@ public static class Uppgift2{
 
     static public void Steg1(){
         Console.Clear();
-        Console.WriteLine("Eftersom Uppgift 2 & 3 är struktuerade annorlunda från den första kommer detta avsnitt ochså vara det.");
+        Console.WriteLine("Eftersom Uppgift 2 är struktuerade annorlunda från den första kommer detta avsnitt ochså vara det.");
         Console.WriteLine();
         Console.WriteLine("Steg 1:");
         Console.WriteLine("Skapa en string-array med namnen på fem olika leksaker.");
