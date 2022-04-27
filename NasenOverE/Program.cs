@@ -10,7 +10,7 @@ namespace NasenOverE
         {
             while(true){
                 Console.WriteLine("Hello World!");                          //ger instruktioner till användaren
-                Console.WriteLine("Näsan över E fusklapp v2.1");
+                Console.WriteLine("Näsan över E fusklapp v2.01");
                 Console.WriteLine();
                 Console.WriteLine("Vill du se Uppgift 1, 2, eller 3?");
                 Console.WriteLine("(3 har inte implimenteras än)");
